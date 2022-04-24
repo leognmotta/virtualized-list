@@ -1,3 +1,9 @@
+# Local environment
+
+`yarn` or `npm install`
+
+`yarn dev` or `npm run dev`
+
 # Virtualized List
 
 in order to render massive lists in React, we have a few options to make it performant, the first and most popular option is pagination, another powerful option is virtualization.
